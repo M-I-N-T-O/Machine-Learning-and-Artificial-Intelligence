@@ -1,1 +1,1 @@
-# Mind and concept maps, system dynamics, virtuan environment, hands-on
+# Mind and concept maps, system dynamics, virtual environment, hands-on

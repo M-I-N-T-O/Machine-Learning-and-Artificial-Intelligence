@@ -2,3 +2,6 @@
 
 Image Mind Map
 ![Image](https://github.com/user-attachments/assets/ea4a3ae8-4cb9-4f63-91fc-3d053bd92480)
+
+Concept Map
+![Image](https://github.com/user-attachments/assets/c17f2f8c-3a90-4595-a193-bbc1e2fd8b54)

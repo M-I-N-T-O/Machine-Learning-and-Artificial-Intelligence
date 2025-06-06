@@ -1,5 +1,5 @@
-# mindmap
 ```mermaid
+mindmap
   root((Simulasi Numerik Perpindahan Panas))
     Material TIM
       Alumina (Al2O3)
